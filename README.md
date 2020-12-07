@@ -2,4 +2,8 @@
 
 開発したサービスのユーザー向けドキュメント用リポジトリです
 
-[yazin/flowerstand](https://github.com/yazin/flowerstand)
+## Virtual Flower Stand
+
+[ユーザーガイド](https://docs.schoolidol.club/flowerstand/)
+
+[リポジトリ](https://github.com/yazin/flowerstand)
