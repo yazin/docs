@@ -45,6 +45,7 @@
 
 - 参加者の情報変更機能はないので、入力を間違えた場合は企画者に連絡して一旦削除してもらってから再度参加してください。
 - 1つのフラワースタンドに参加できる人数は最大100人です。
+
 ### フラワースタンドの参加者を管理する
 
 1. 参加者管理をしたいフラワースタンドの詳細画面で「管理」→「参加者管理」ボタンを押してください。
@@ -92,9 +93,8 @@ Twitter / [@yazin](https://twitter.com/yazin)
 
 フラワースタンドの元画像にはイラストACのイラスト素材を使用しています。
 
-https://www.ac-illust.com/main/detail.php?id=87614
-
-https://www.ac-illust.com/main/detail.php?id=699401
+- [スタンドフラワー](https://www.ac-illust.com/main/detail.php?id=87614)
+- [フレーム59](ttps://www.ac-illust.com/main/detail.php?id=699401)
 
 ## 開発 | contribute
 
