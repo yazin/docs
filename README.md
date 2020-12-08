@@ -1,4 +1,4 @@
-# flowerstand-docs
+# schoolidol.club docs
 
 開発したサービスのユーザー向けドキュメント用リポジトリです
 
