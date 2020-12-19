@@ -1,6 +1,6 @@
 # Virtual Flower Stand for LoveLive!
 
-https://flowerstand.schoolidol.club/
+[https://flowerstand.schoolidol.club/](https://flowerstand.schoolidol.club/)
 
 ## 何これ | what's this
 
