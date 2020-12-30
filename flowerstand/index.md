@@ -88,7 +88,7 @@
 
 とも
 
-- e-mail / [tomo@schoolidol.club](mailto:tomo@schoolidol.club)
+- e-mail / [tomo@azuna.land](mailto:tomo@azuna.land)
 - LoveLidon! / [@yazin@mstdn.schoolidol.club](https://mstdn.schoolidol.club/@yazin)
   - LoveLidon!については[こちら](https://mstdn.schoolidol.club/about)へ
 - Twitter / [@yazin](https://twitter.com/yazin)
